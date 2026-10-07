@@ -6,7 +6,7 @@
   /* ---------- i18n ---------- */
   const EN = {
     "nav.memory": "Memory", "nav.features": "Features", "nav.engine": "Engine",
-    "hero.pill": "v0.5.0 · Free · Open source",
+    "hero.pill": "v0.5.1 · Free · Open source",
     "hero.t1": "Your music.", "hero.t2": "Without the weight.",
     "hero.sub": "<strong>Rustify</strong> is a desktop YouTube Music player written from scratch in <strong>Rust</strong>. The whole catalog, no ads, and <strong>~30&nbsp;MB</strong> of memory instead of 600.",
     "cta.download": "Download for Windows", "cta.source": "View the code", "cta.releases": "All releases",
@@ -20,7 +20,7 @@
     "stat.ads": "ads. The website is never loaded, only the audio", "stat.jam": "friends listening with you in Jam",
     "feat.eyebrow": "Everything you expect",
     "feat.title": "Light doesn't mean <span class=\"grad\">incomplete.</span>",
-    "f1.t": "Plays instantly", "f1.d": "Playback starts with the first downloaded chunk (~0.4 MB) while the rest keeps arriving. The next song is already preloading.",
+    "f1.t": "Plays instantly", "f1.d": "Playback starts with the first downloaded chunk (~0.4 MB) while the rest keeps arriving. The next song is already preloading, and one button jumps 10 s forward or back.",
     "f2.t": "10-band equalizer", "f2.d": "With presets, exponential volume and a custom DSP that skips leading silence.",
     "f3.t": "Synced lyrics", "f3.d": "From LRCLIB or YouTube Music's official lyrics, line by line.", "f3.l": "and the lyrics follow along",
     "f4.t": "One-click updates", "f4.d": "The UpDate button turns red when there's a new version: it downloads, installs and reopens by itself.",
